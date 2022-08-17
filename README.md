@@ -1,1 +1,0 @@
-# corteva_assignment
